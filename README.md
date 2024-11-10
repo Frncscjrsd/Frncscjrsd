@@ -8,7 +8,7 @@ Domino herramientas como Figma, Visual Studio Code (HTML5, CSS3), y las platafor
 
 - Puedes contactarme a través de mi correo electrónico: **<Franciscojara.seida@gmail.com>**
 - Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/francisco-jara-seida-577211172/)**
-- Puedes visitar mi **[sitio web](https://behance.com/FranciscoJara)**
+- Puedes visitar mi **[sitio web](https://behance.com/FranciscoJaraS)**
 
 ### 🎨 Frontend
 
