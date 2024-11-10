@@ -1,10 +1,8 @@
 # Hola 👋, soy Francisco Jara Seida
 
-Hola, soy Publicista con especialización en Diseño Gráfico por la Universidad Finis Terrae, Chile, y certificado como Diseñador UX/UI por Talento Digital para Chile. Cuento con experiencia en agencias, donde en los últimos 3 años me he enfocado en el ámbito digital, creando contenido gráfico para marcas reconocidas en Chile y Latinoamérica.
+Hola, soy publicista y diseñador UX/UI en camino de especializarme en desarrollo front-end, actualmente cursando un bootcamp para profundizar en esta área. Con experiencia en agencias digitales, en los últimos 3 años he trabajado con marcas de Chile y Latinoamérica, creando contenido gráfico y desarrollando interfaces optimizadas.
 
-Como Diseñador Gráfico, manejo herramientas de Adobe como Photoshop, Illustrator, After Effects y Lightroom. Además, como Diseñador UX/UI, domino plataformas como Jira, Optimal Workshop, Miro, Notion, Figma y Visual Studio Code (HTML5, CSS3), entre otras.
-
-Mi enfoque es diseñar experiencias de usuario atractivas y funcionales, optimizadas para diferentes dispositivos. También he liderado proyectos colaborativos, asegurando que los diseños cumplan con los objetivos estratégicos y comerciales dentro de los plazos establecidos. 
+Domino herramientas como Figma, Visual Studio Code (HTML5, CSS3), y las plataformas de Adobe (Photoshop, Illustrator, After Effects, Lightroom). Mi enfoque es crear experiencias de usuario atractivas y funcionales, cumpliendo con los objetivos estratégicos y dentro de los plazos establecidos.
 
 ## 📫 Contacto
 
